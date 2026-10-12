@@ -1,0 +1,10 @@
+{
+  "name": "InstaFlow OS",
+  "short_name": "InstaFlow",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080711",
+  "theme_color": "#080711",
+  "description": "Offline-first creator content workspace",
+  "icons": []
+}
